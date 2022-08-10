@@ -1,4 +1,4 @@
-### Hi there, I'm Vítor 👋🏴‍☠️
+## Hi there, I'm Vítor 👋🏴‍☠️
 
  <div align="center">
   <a href="https://github.com/vitor-leal">
